@@ -1,0 +1,13 @@
+{
+  "hooks": [
+    {
+      "matcher": "PostToolUse",
+      "hooks": [
+        {
+          "type": "command",
+          "command": "node /Users/sahilshingate/Desktop/agent-skills/hooks/cost-monitor/cost-monitor.js"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "agent-skills",
+  "version": "1.0.0",
+  "description": "Collection of agent skills, MCP servers, and hooks for enhanced productivity",
+  "author": "Sahil Shingate <sahilshingate0@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahilshingate01/agent-skills.git"
+  },
+  "homepage": "https://github.com/sahilshingate01/agent-skills#readme",
+  "private": true,
+  "scripts": {
+    "sync:skills": "bash scripts/sync-skills.sh"
+  }
+}

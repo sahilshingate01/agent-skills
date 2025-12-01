@@ -1,0 +1,13 @@
+{
+  "hooks": [
+    {
+      "matcher": "PreToolUse",
+      "hooks": [
+        {
+          "type": "command",
+          "command": "node /Users/sahilshingate/Desktop/agent-skills/hooks/tdd-enforcement/tdd-guard.js"
+        }
+      ]
+    }
+  ]
+}
